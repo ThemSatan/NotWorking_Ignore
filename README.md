@@ -1,4 +1,4 @@
 # NotWorking_Ignore
-this thing doesnt work yet just saving it
+bro idk what im doimng help me pls
 <hr>
 hh what is wrooong 
