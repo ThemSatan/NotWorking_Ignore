@@ -3,7 +3,7 @@ public class DemoWindow {
     private boolean jeZakoupeno;
     private int oblibenost;
 
-    public DemoWindow(String name, boolean jeZakoupeno, int oblibenost){
+    public DemoWindow(String name, boolean jeZakoupeno, int oblibenost) {
         this.name = name;
         this.jeZakoupeno = jeZakoupeno;
         this.oblibenost = oblibenost;
